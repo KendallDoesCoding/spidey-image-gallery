@@ -1,0 +1,32 @@
+body {
+  background: repeating-linear-gradient(rgb(223, 31, 45), rgb(68, 123, 190));
+}
+
+.gallery {
+  margin: 5px;
+  float: left;
+  width: 180px;
+}
+
+.gallery1 {
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 2px solid #777;
+}
+
+div.gallery1:hover {
+  border: 2px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.gallery1 img {
+  width: 100%;
+  height: auto;
+}
